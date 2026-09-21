@@ -6,3 +6,4 @@ je suis malade
 
 ## Installation
 Clonez ce dépôt et amusez-vous.
+Ligne modifiée depuis master
